@@ -52,9 +52,7 @@ Vercel CLI (for deployment)
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/assessment-tools.git
+
 cd assessment-tools
 Install dependencies:
 
